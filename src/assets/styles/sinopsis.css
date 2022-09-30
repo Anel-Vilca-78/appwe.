@@ -1,0 +1,33 @@
+.vector1{
+    margin-top: 30px;
+    height: 90px;
+    width: 400px;
+    margin-left: 37%;
+}
+
+.vector2{
+    height: 100px;
+    width: 900px;
+    margin-left: 20%;
+}
+
+h6{
+    font-family:cursive;
+    font-size: 60px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-align: center;
+    color: rgb(155, 55, 194);
+}
+.Sinopsis{
+
+    align-items:center;
+
+}
+.infosinopsis{
+    font-family:cursive;
+    margin-left: 180px;
+    margin-right: 180px;
+    text-align: center;
+}

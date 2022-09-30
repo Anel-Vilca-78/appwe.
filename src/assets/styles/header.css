@@ -1,0 +1,24 @@
+.portadita{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+.head{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.nav{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+header{
+    margin:0%;
+    border: 0%;
+    padding: 0%;
+
+}

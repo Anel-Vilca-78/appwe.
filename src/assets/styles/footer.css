@@ -1,0 +1,13 @@
+.foot{
+    margin-top: 00.75rem;
+    margin-bottom: 00.75rem;
+    text-align: center;
+    font-size: 20px;
+}
+.foot.style{
+    border-radius: 0.5rem;
+    background-color:rgb(174, 225, 248);
+    min-height: 5rem;
+    padding: 10px;
+    justify-content:center ;
+}

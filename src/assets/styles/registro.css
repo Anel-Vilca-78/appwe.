@@ -1,0 +1,40 @@
+.TituloRegistro{
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+.titulo{
+    font-size: 20px;
+    
+}
+p{
+    font-family: cursive;
+}
+.atributos{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    box-shadow: 0px 0px 15px rgb(228, 105, 207);
+    height: 75px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+
+}
+.inputs{
+    background-color: rgb(221, 221, 221);
+    border: 0;
+    font-size: 25px;
+}
+.botonsito{
+    font-family: cursive;
+    background-color: rgb(243, 85, 204);
+    border-color:white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 590px;
+    margin-bottom: 25px;
+
+}
